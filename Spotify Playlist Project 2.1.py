@@ -7,8 +7,8 @@ import json
 scope = 'playlist-modify-public'
 username = "ncurs1n6rkvtfd8trztast5f7"
 
-CLIENT_ID = "10f7298192cc44b888223f2580bcf68a"
-CLIENT_SECRET = "063c1bcfbc4c4357a5aa5c52a2c8666b"
+CLIENT_ID = '00000A'
+CLIENT_SECRET = "00000B"
 
 token = SpotifyOAuth(client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
